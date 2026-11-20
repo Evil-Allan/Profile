@@ -47,7 +47,7 @@ class FullstackDeveloper {
         ];
         this.focus = [
             "Red Team",
-            "Test-Driven Development",
+            "Development",
             "back end"
         ];
     }
