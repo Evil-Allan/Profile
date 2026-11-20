@@ -175,29 +175,6 @@ mindmap
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/64/000000/search.png"/><br/>
-<h3>BuscaJogos+ Platform</h3>
-<b>Game Price Comparison System</b><br/>
-<i>Web platform for searching and comparing digital game prices across multiple stores</i><br/>
-<br/>
-<b>Technologies:</b> Golang, C#, Blazor, MySQL, Docker, Swagger<br/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-</td>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/?size=64&id=CGY1oVGCaVHa&format=png&color=000000"/> 
-<h3>Projeto Mitra</h3>
-<b>CRM for Small Businesses</b><br/>
-<i>Desktop CRM system for blind and curtain companies with order and quote management</i><br/>
-<br/>
-<b>Technologies:</b> Python, tkinter, SQLite3, pytest, pyinstaller<br/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 ## Languages
@@ -214,17 +191,6 @@ mindmap
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/48/000000/usa.png"/><br/>
 <b>English</b><br/>
-<img src="https://img.shields.io/badge/Level-Advanced%20(C1)-blue?style=for-the-badge"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/france.png"/><br/>
-<b>French</b><br/>
-<img src="https://img.shields.io/badge/Level-Intermediate%20(A2)-orange?style=for-the-badge"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/spain.png"/><br/>
-<b>Spanish</b><br/>
-<img src="https://img.shields.io/badge/Level-Basic%20(A1)-yellow?style=for-the-badge"/>
 </td>
 </tr>
 </table>
