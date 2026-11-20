@@ -191,6 +191,7 @@ mindmap
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/48/000000/usa.png"/><br/>
 <b>English</b><br/>
+<img src="https://img.shields.io/badge/Level-basic%20(C1)-blue?style=for-the-badge"/>
 </td>
 </tr>
 </table>
@@ -208,7 +209,6 @@ mindmap
 </td>
 <td width="50%">
 <img width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuggieAlmeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=FFFFFF" alt="Top Languages">
-    <img src="https://img.shields.io/badge/Level-Advanced%20(C1)-blue?style=for-the-badge"/>
 </td>
 </td>
 </tr>
