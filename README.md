@@ -207,12 +207,6 @@ mindmap
 <td width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=Evil-Allan&show_icons=true&theme=radical" alt="GitHub Stats">
 </td>
-<td width="50%">
-<img width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Allan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=FFFFFF" alt="Top Languages">
-</td>
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
@@ -228,6 +222,6 @@ mindmap
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AuggieAlmeida&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Evil-Allan&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
 </div>
