@@ -38,7 +38,7 @@ class FullstackDeveloper {
         this.email = "allan.oficina01@gmail.com";
         this.languages = [
             "Portuguese (Native)",
-            "English (basic - C1)"
+            "English (basic)"
         ];
         this.specialties = [
             "Software Development",
@@ -87,39 +87,6 @@ Experience spans across frontend and backend development, kali linux, and busine
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
-
-**Current Role (2025)**
-- **Test Engineer** - Outlier
-- Automated testing development and execution
-- Test planning and bug reporting
-- Technical prompt optimization for test automation
-
-**Frontend Developer (2024)**
-- **Make Acelerador de Vendas**
-- Responsive interfaces with ReactJS, WordPress, PHP
-- Landing pages and API integrations
-- SEO auditing and performance optimization
-
-</td>
-<td width="50%">
-
-**Fullstack Developer (2022-2024)**
-- **Freelance Projects**
-- Full-stack information systems development
-- RESTful API development with Java/Spring Boot
-- Database modeling and optimization
-- Container orchestration and end-to-end integration
-
-**Previous Experience**
-- **Technical Support** - Sintel Tecnologia (2021-2022)
-- **Market Intelligence Analyst** - Itaú Unibanco (2020-2021)
-
-</td>
-</tr>
-</table>
 
 ## Technical Skills
 
@@ -127,30 +94,16 @@ Experience spans across frontend and backend development, kali linux, and busine
 mindmap
   root((Skills))
     Frontend
-      React/Next.js
-      Angular
       HTML/CSS/JS
-      TailwindCSS
     Backend
-      Node.js/TypeScript
-      Java Spring Boot
       Python/Flask
-      REST/GraphQL
-    Quality Assurance
-      Jest/JUnit
-      Cypress/Selenium
-      Automated Testing
-      Test Planning
+      C++
     Data & Analytics
       SQL/NoSQL
       Power BI
-      Web Scraping
-      Data Visualization
     DevOps
-      Docker
-      CI/CD
       Git/GitHub
-      Process Automation
+
 ```
 
 <div align="center">
