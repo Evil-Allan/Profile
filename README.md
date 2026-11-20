@@ -208,7 +208,7 @@ mindmap
 <img src="https://github-readme-stats.vercel.app/api?username=Evil-Allan&show_icons=true&theme=radical" alt="GitHub Stats">
 </td>
 <td width="50%">
-<img width="100%"src="[https://github-readme-stats.vercel.app/api?username=Evil-Allan&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=AuggieAlmeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=FFFFFF)" alt="Top Languages">
+<img width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuggieAlmeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=FFFFFF" alt="Top Languages">
 </td>
 </td>
 </tr>
