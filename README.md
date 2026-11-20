@@ -211,7 +211,6 @@ mindmap
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
 </div>
-<br/>
 ---
 
 <div align="center">
@@ -220,6 +219,7 @@ mindmap
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Open+for+collaborations+and+new+opportunities!;Let's+build+quality+software+together!;Always+ready+for+the+next+challenge!" alt="Footer Typing SVG" />
 
+<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Evil-Allan&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
