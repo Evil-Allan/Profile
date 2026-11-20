@@ -208,9 +208,6 @@ mindmap
 <img src="https://github-readme-stats.vercel.app/api?username=Evil-Allan&show_icons=true&theme=radical" alt="GitHub Stats">
 </td>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
-</div>
 ---
 
 <div align="center">
@@ -222,4 +219,7 @@ mindmap
 
 <img src="https://komarev.com/ghpvc/?username=Evil-Allan&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
 </div>
