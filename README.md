@@ -211,7 +211,7 @@ mindmap
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling"/>
 </div>
-
+<br/>
 ---
 
 <div align="center">
