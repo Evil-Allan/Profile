@@ -76,9 +76,9 @@ class FullstackDeveloper {
 
 </div>
 
-Security professional with a focus on red team. College training impacts cybersecurity.
+# Security professional with a focus on red team. College training impacts cybersecurity.
 
-Experience spans across frontend and backend development, kali linux, and business intelligence.
+# Experience spans across frontend and backend development, kali linux, and business intelligence.
 
 <div align="center">
 
