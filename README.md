@@ -170,9 +170,6 @@ mindmap
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Featured Projects
-
-
 </div>
 
 <div align="center">
@@ -214,7 +211,6 @@ mindmap
 
 ### *"Quality code is not an accident; it is the result of intelligent effort."*
 
-<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Evil-Allan&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
